@@ -10,3 +10,5 @@ Script 4 by MonkeyBean2 (https://scratch.mit.edu/discuss/post/6423171/)
 Script 5 by DifferentDance8 (https://scratch.mit.edu/discuss/post/6423938/)
 
 Script 6 by MonkeyBean2 (https://scratch.mit.edu/discuss/post/6424390/)
+
+Script 8 by rishi272011 (https://scratch.mit.edu/discuss/post/6448542/)
