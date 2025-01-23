@@ -1,0 +1,78 @@
+body {
+  margin: none;
+  background-color: #d3d3d3;
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  background-color: #aaa;
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-top: none;
+  padding-bottom: none;
+  padding-right: 20px;
+}
+#header {
+	color: #000;
+	text-align: left;
+}
+button.nav {
+	padding: 5px;
+	background-color: #fff;
+	border: #000;
+	border-width: 3px;
+	height: 50px;
+	width: 200px;
+}
+#content-left {
+	float: left;
+	background-color: #aaa;
+	border-width: 1px;
+	width: 48%;
+	border-color: #000;
+	border-style: solid;
+	border-radius: 15px;
+	padding: 10px;
+}
+#content-right {
+	text-align: center;
+	float: left;
+	width: 48%;
+	background-color: #aaa;
+	border-width: 1px;
+	border-color: #000;
+	border-radius: 15px;
+	padding: 10px;
+	border-style: solid;
+}
+.hspacer {
+	height: 40px;
+}
+.#wspacer {
+	width: 2%;
+	background-color: #aaa;
+	border-width: 1px;
+	border-color: #000;
+	border-radius: 15px;
+	padding: 10px;
+	border-style: solid;
+}
+#what-i-made {
+	font-size: 30px;
+    width: 200px;
+	text-align: left;
+	background-color: #aaa;
+	border-width: 1px;
+	border-color: #000;
+	border-radius: 1px;
+	border-style: solid;
+}
+#see-more {
+	font-size: 10px;
+    text-align: right;
+	width: 500px;
+	background-color: #aaa;
+	border-width: 1px;
+	border-color: #000;
+	border-radius: 1px;
+	border-style: solid;
+}
