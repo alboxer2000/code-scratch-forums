@@ -1,0 +1,10 @@
+l1 = chr(72)
+l2 = chr(69)
+l3 = chr(76)
+l4 = chr(79)
+l5 = chr(87)
+l6 = chr(79)
+l7 = chr(82)
+x = 67
+cope = chr(eval('x+1'))
+print (l1 + l2 + l3 + l3 + l4 + " " + l5 + l6 + l7 + l3 + cope)
