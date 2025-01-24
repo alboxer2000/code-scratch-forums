@@ -1,0 +1,17 @@
+section	.text
+global _start
+_start:
+mov	eax, 4
+mov	ebx, 1
+call	yes
+ret
+yes:
+mov 	ecx, [esp]
+lea	ecx, [ecx + $16]
+mov	edx, $0D
+int	$80
+mov	eax, 1
+int	$80
+ret
+hello.world:
+db 	0x48 ,0x65 ,0x6C ,0x6C ,0x6F ,0x2C ,0x20 ,0x77 ,0x6F ,0x72 ,0x6C ,0x64 ,0x21
